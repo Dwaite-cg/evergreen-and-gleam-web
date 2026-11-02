@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 850" role="img" aria-labelledby="title desc">
+<title id="title">A cared-for home and garden</title><desc id="desc">Illustrated cream house with a deep green roof, clean walkway, and flower beds surrounded by leafy trees.</desc>
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edf3e4"/><stop offset="1" stop-color="#f8e5ca"/></linearGradient>
+ <linearGradient id="lawn" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9fbd83"/><stop offset="1" stop-color="#547e58"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#244a3a" flood-opacity=".16"/></filter>
+</defs>
+<rect width="1200" height="850" rx="38" fill="url(#sky)"/>
+<circle cx="955" cy="126" r="58" fill="#f2c77b" opacity=".92"/>
+<g fill="#b4cba0" opacity=".8"><circle cx="135" cy="185" r="60"/><circle cx="183" cy="152" r="74"/><circle cx="236" cy="201" r="58"/><circle cx="1065" cy="290" r="75"/><circle cx="1122" cy="232" r="66"/><circle cx="1014" cy="223" r="62"/></g>
+<path d="M0 455Q240 390 420 457T810 441T1200 442V850H0Z" fill="#d7e2c3"/>
+<g filter="url(#shadow)"><rect x="290" y="270" width="580" height="360" rx="12" fill="#f5ead8"/><path d="M235 320L580 98 925 320Z" fill="#244c40"/><path d="M285 310L580 127 875 310" fill="none" stroke="#47725a" stroke-width="16" stroke-linecap="round"/>
+<rect x="365" y="365" width="122" height="122" rx="5" fill="#c0d6cf" stroke="#fff8ed" stroke-width="12"/><path d="M426 365V487M365 426H487" stroke="#f8f3e8" stroke-width="8"/>
+<rect x="650" y="365" width="122" height="122" rx="5" fill="#c0d6cf" stroke="#fff8ed" stroke-width="12"/><path d="M711 365V487M650 426H772" stroke="#f8f3e8" stroke-width="8"/>
+<rect x="500" y="485" width="160" height="145" rx="5" fill="#b27d55"/><rect x="520" y="502" width="120" height="128" rx="3" fill="#d8b18b"/><circle cx="625" cy="562" r="6" fill="#f6e5c8"/>
+</g>
+<path d="M528 630L632 630 790 850 375 850Z" fill="#d9d0bc"/><path d="M563 654L598 654 710 850 468 850Z" fill="#eee7d9"/>
+<path d="M0 670Q200 604 386 680T780 676T1200 645V850H0Z" fill="url(#lawn)"/>
+<!-- shaped shrubs -->
+<g fill="#477852"><ellipse cx="250" cy="625" rx="110" ry="78"/><ellipse cx="168" cy="651" rx="81" ry="61"/><ellipse cx="338" cy="652" rx="83" ry="59"/><ellipse cx="930" cy="630" rx="96" ry="78"/><ellipse cx="1010" cy="654" rx="94" ry="62"/><ellipse cx="870" cy="660" rx="84" ry="61"/></g>
+<g fill="#729c68"><circle cx="184" cy="602" r="35"/><circle cx="250" cy="582" r="43"/><circle cx="315" cy="605" r="37"/><circle cx="889" cy="599" r="39"/><circle cx="951" cy="584" r="42"/><circle cx="1016" cy="614" r="38"/></g>
+<!-- flower clusters -->
+<g fill="#f0c47f"><circle cx="119" cy="715" r="13"/><circle cx="150" cy="744" r="11"/><circle cx="315" cy="737" r="13"/><circle cx="345" cy="706" r="10"/><circle cx="863" cy="721" r="12"/><circle cx="920" cy="747" r="11"/><circle cx="1046" cy="714" r="13"/></g>
+<g fill="#f5f0e7"><circle cx="150" cy="690" r="10"/><circle cx="174" cy="713" r="12"/><circle cx="290" cy="700" r="10"/><circle cx="897" cy="698" r="10"/><circle cx="976" cy="712" r="12"/><circle cx="1068" cy="747" r="10"/></g>
+<g fill="#d98a86"><circle cx="110" cy="754" r="10"/><circle cx="214" cy="738" r="12"/><circle cx="288" cy="753" r="11"/><circle cx="837" cy="755" r="11"/><circle cx="970" cy="754" r="10"/><circle cx="1094" cy="700" r="12"/></g>
+<g stroke="#355e43" stroke-width="5" stroke-linecap="round"><path d="M130 760v38M174 724v56M212 750v42M292 765v41M865 752v43M975 765v43M1050 729v55"/></g>
+<g fill="#2d5a43"><ellipse cx="95" cy="790" rx="30" ry="12" transform="rotate(-25 95 790)"/><ellipse cx="151" cy="790" rx="30" ry="12" transform="rotate(24 151 790)"/><ellipse cx="845" cy="795" rx="30" ry="12" transform="rotate(-25 845 795)"/><ellipse cx="890" cy="790" rx="30" ry="12" transform="rotate(24 890 790)"/></g>
+<g fill="#f8f2e8" opacity=".85"><circle cx="80" cy="90" r="5"/><circle cx="1120" cy="440" r="6"/><circle cx="1000" cy="170" r="4"/></g>
+</svg>

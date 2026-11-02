@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Evergreen &amp; Gleam logo</title><desc id="desc">Two green leaves beside a small golden sparkle.</desc>
+<rect width="128" height="128" rx="34" fill="#173f35"/>
+<path d="M28 79C30 44 53 25 86 25c0 35-19 57-53 54" fill="#d6e8bd"/>
+<path d="M28 99C40 77 55 61 81 43" fill="none" stroke="#173f35" stroke-width="5" stroke-linecap="round"/>
+<path d="M48 89C49 64 67 49 98 50c0 27-16 43-50 39" fill="#7eae77"/>
+<path d="M95 17l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#efbd6c"/>
+<circle cx="101" cy="83" r="4" fill="#efbd6c"/>
+</svg>

@@ -1,0 +1,7 @@
+{
+  "html_pages": 11,
+  "html_errors": [],
+  "css_parse_errors": [],
+  "javascript_syntax_exit_code": 0,
+  "notes": "This is a local static audit; Netlify deployment and remote browser console testing are pending."
+}

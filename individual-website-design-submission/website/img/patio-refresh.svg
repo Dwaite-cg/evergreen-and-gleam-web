@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+<title id="title">A calm patio surrounded by plants</title><desc id="desc">A wood deck with simple outdoor seating and planter boxes filled with green foliage.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edf2e6"/><stop offset="1" stop-color="#f6dfc1"/></linearGradient></defs>
+<rect width="900" height="650" rx="30" fill="url(#sky)"/><path d="M0 372L900 332V650H0Z" fill="#c69c72"/><path d="M0 421L900 386M0 481L900 446M0 543L900 509M0 604L900 571" stroke="#a77b56" stroke-width="7" opacity=".65"/>
+<path d="M0 0H900V180L590 280H0Z" fill="#e0e9da"/><rect x="75" y="72" width="225" height="230" rx="9" fill="#c8ddd4" stroke="#fff9ee" stroke-width="15"/><path d="M188 72V302M75 185H300" stroke="#fff9ee" stroke-width="9"/>
+<g><rect x="380" y="335" width="220" height="28" rx="8" fill="#6b8768"/><path d="M400 363v130M580 363v130" stroke="#3c5f49" stroke-width="13"/><rect x="405" y="270" width="170" height="82" rx="18" fill="#ede4d3"/><rect x="420" y="288" width="65" height="47" rx="10" fill="#d2a16f"/><rect x="493" y="288" width="65" height="47" rx="10" fill="#f6f0e3"/><rect x="375" y="350" width="230" height="20" rx="8" fill="#91a589"/></g>
+<g><rect x="650" y="315" width="100" height="118" rx="8" fill="#ba8060"/><path d="M660 320Q680 270 700 315Q725 250 740 316" fill="#5d8a60"/><path d="M690 315Q662 272 676 242Q710 266 690 315Z" fill="#789f70"/><path d="M710 315Q740 274 727 244Q692 266 710 315Z" fill="#416c4b"/><rect x="668" y="306" width="64" height="17" rx="5" fill="#d6a17b"/></g>
+<g><rect x="115" y="350" width="102" height="112" rx="8" fill="#ba8060"/><path d="M130 353Q110 298 144 276Q170 308 150 353Z" fill="#5c8a60"/><path d="M163 355Q180 295 203 294Q211 331 163 355Z" fill="#88ad78"/><path d="M180 353Q158 293 178 269Q208 307 180 353Z" fill="#416c4b"/></g>
+<g fill="#e4b76f"><circle cx="95" cy="538" r="9"/><circle cx="133" cy="550" r="10"/><circle cx="201" cy="526" r="9"/><circle cx="738" cy="536" r="9"/><circle cx="788" cy="551" r="10"/><circle cx="832" cy="531" r="9"/></g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+<title id="title">Neatly maintained lawn and garden</title><desc id="desc">Rolling green lawn, clipped hedges, flower beds, and a garden path.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e9f0e5"/><stop offset="1" stop-color="#fcf0db"/></linearGradient><linearGradient id="grass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#8db17d"/><stop offset="1" stop-color="#456d4e"/></linearGradient></defs>
+<rect width="900" height="650" rx="30" fill="url(#sky)"/><circle cx="725" cy="110" r="48" fill="#f0c979"/>
+<g fill="#b6cba8"><circle cx="125" cy="188" r="58"/><circle cx="182" cy="157" r="75"/><circle cx="236" cy="194" r="55"/><circle cx="784" cy="255" r="72"/><circle cx="845" cy="210" r="58"/></g>
+<path d="M0 300Q190 250 350 311T650 294T900 306V650H0Z" fill="#d2dfc1"/>
+<path d="M0 410Q240 340 422 401T900 375V650H0Z" fill="url(#grass)"/>
+<path d="M420 405L490 402 645 650 270 650Z" fill="#d8cbb0"/><path d="M440 414L469 413 576 650 344 650Z" fill="#ede5d5"/>
+<g fill="#47734e"><ellipse cx="170" cy="360" rx="105" ry="60"/><ellipse cx="105" cy="394" rx="70" ry="45"/><ellipse cx="251" cy="395" rx="75" ry="43"/><ellipse cx="720" cy="365" rx="115" ry="65"/><ellipse cx="800" cy="400" rx="85" ry="46"/><ellipse cx="650" cy="405" rx="80" ry="42"/></g>
+<g fill="#73a06b"><circle cx="125" cy="346" r="27"/><circle cx="175" cy="331" r="31"/><circle cx="225" cy="352" r="25"/><circle cx="678" cy="343" r="29"/><circle cx="724" cy="327" r="34"/><circle cx="775" cy="350" r="30"/></g>
+<!-- flower bed -->
+<path d="M0 493Q125 456 245 493T430 496L410 557Q210 540 0 583Z" fill="#594b3f" opacity=".5"/>
+<g stroke="#386747" stroke-width="5" stroke-linecap="round"><path d="M70 520v-41M127 510v-49M195 521v-42M267 524v-52M340 531v-44M585 520v-40M666 512v-49M748 525v-44M824 521v-43"/></g>
+<g fill="#e6af69"><circle cx="70" cy="475" r="11"/><circle cx="127" cy="460" r="12"/><circle cx="195" cy="479" r="11"/><circle cx="267" cy="472" r="13"/><circle cx="340" cy="487" r="11"/><circle cx="585" cy="480" r="11"/><circle cx="666" cy="463" r="13"/><circle cx="748" cy="481" r="11"/><circle cx="824" cy="478" r="12"/></g>
+<g fill="#f5e9d6"><circle cx="88" cy="500" r="9"/><circle cx="145" cy="491" r="10"/><circle cx="214" cy="501" r="9"/><circle cx="289" cy="505" r="10"/><circle cx="365" cy="509" r="9"/><circle cx="607" cy="500" r="10"/><circle cx="690" cy="492" r="9"/><circle cx="774" cy="501" r="10"/><circle cx="845" cy="504" r="9"/></g>
+<g fill="#cf8580"><circle cx="106" cy="483" r="8"/><circle cx="245" cy="483" r="9"/><circle cx="314" cy="493" r="8"/><circle cx="630" cy="482" r="8"/><circle cx="716" cy="486" r="9"/><circle cx="800" cy="490" r="8"/></g>
+</svg>
