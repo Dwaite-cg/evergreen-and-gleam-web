@@ -1,7 +1,6 @@
-ASSIGNMENT SUBMISSION LINKS — ADD AFTER PUBLISHING
+ASSIGNMENT SUBMISSION LINKS
 
-Netlify deployed website URL: [ADD YOUR PUBLIC NETLIFY URL]
-GitHub repository URL: [ADD YOUR PUBLIC GITHUB REPOSITORY URL]
-Mockup URL: [ADD YOUR NETLIFY SITE URL]/mockups/
+Netlify deployed website URL: [https://evergreen-and-gleam.netlify.app/]
+GitHub repository:this
 
-These fields are placeholders because publication must be done through your GitHub/Netlify accounts.
+
